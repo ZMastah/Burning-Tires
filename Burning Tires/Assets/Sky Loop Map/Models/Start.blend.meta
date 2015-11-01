@@ -1,0 +1,115 @@
+fileFormatVersion: 2
+guid: 50ee96742f33edc469b6b137689b4366
+timeCreated: 1446034767
+licenseType: Free
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: Cube
+    100002: GreenFlag
+    100004: GreenFlag_001
+    100006: GreenFlag_002
+    100008: RedFlag
+    100010: RedFlag_001
+    100012: RedFlag_002
+    100014: RedFlag_003
+    100016: //RootNode
+    400000: Cube
+    400002: GreenFlag
+    400004: GreenFlag_001
+    400006: GreenFlag_002
+    400008: RedFlag
+    400010: RedFlag_001
+    400012: RedFlag_002
+    400014: RedFlag_003
+    400016: //RootNode
+    2300000: Cube
+    2300002: GreenFlag
+    2300004: GreenFlag_001
+    2300006: GreenFlag_002
+    2300008: RedFlag
+    2300010: RedFlag_001
+    2300012: RedFlag_002
+    2300014: RedFlag_003
+    3300000: Cube
+    3300002: GreenFlag
+    3300004: GreenFlag_001
+    3300006: GreenFlag_002
+    3300008: RedFlag
+    3300010: RedFlag_001
+    3300012: RedFlag_002
+    3300014: RedFlag_003
+    4300000: RedFlag_003
+    4300002: GreenFlag_002
+    4300004: RedFlag_002
+    4300006: GreenFlag_001
+    4300008: RedFlag_001
+    4300010: GreenFlag
+    4300012: RedFlag
+    4300014: Cube
+    7400000: Default Take
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 4
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 1
+    tangentImportMode: 1
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
