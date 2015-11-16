@@ -1,0 +1,19 @@
+Base path: /home/tibo/Downloads/unity-editor-5.1.0f3/Editor/Data
+Pipe name: \\.\pipe\UnityShaderCompiler-64bit-4--1422915840
+Cmd: getPlatforms
+Cmd: compileSnippet
+  api=8 type=0 insize=7523 outsize=9173 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_OFF DIRLIGHTMAP_OFF DYNAMICLIGHTMAP_OFF VERTEXLIGHT_ON ok=1
+Cmd: compileSnippet
+  api=8 type=0 insize=4918 outsize=5688 kw=SPOT ok=1
+Cmd: compileSnippet
+  api=8 type=1 insize=4918 outsize=5525 kw=POINT ok=1
+Cmd: compileSnippet
+  api=8 type=1 insize=4918 outsize=5168 kw=DIRECTIONAL_COOKIE ok=1
+Cmd: compileSnippet
+  api=8 type=1 insize=6408 outsize=2397 kw=LIGHTMAP_OFF DIRLIGHTMAP_OFF DYNAMICLIGHTMAP_OFF HDR_LIGHT_PREPASS_OFF ok=1
+Cmd: compileSnippet
+  api=8 type=0 insize=7382 outsize=6866 kw=LIGHTMAP_OFF DIRLIGHTMAP_OFF DYNAMICLIGHTMAP_OFF UNITY_HDR_ON ok=1
+Cmd: compileSnippet
+  api=8 type=1 insize=7382 outsize=4201 kw=LIGHTMAP_OFF DIRLIGHTMAP_OFF DYNAMICLIGHTMAP_OFF HDR_LIGHT_PREPASS_OFF ok=1
+Cmd: compileSnippet
+  api=8 type=0 insize=7321 outsize=8141 kw=DIRECTIONAL SHADOWS_SCREEN LIGHTMAP_OFF DIRLIGHTMAP_OFF DYNAMICLIGHTMAP_OFF ok=1
